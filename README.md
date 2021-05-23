@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gerry9009
+- 👋 Hi, I’m Gergő (@gerry9009)
 - 👀 I’m interested in front-end projects. 
 - 🌱 I’m currently learning javascript, react, python. I like to get new skills and abilities. I am a beginner in Developer field.
 
