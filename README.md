@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gergő (@gerry9009)
 - 👀 I’m interested in front-end projects. 
-- 🌱 I’m currently learning javascript, react, python. I like to get new skills and abilities. I am a beginner in Developer field.
+- 🌱 I’m currently learning javascript, react. I like to get new skills and abilities.
 
 <!--- 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me: just send me an email to: gergobuglyo@gmail.com 
